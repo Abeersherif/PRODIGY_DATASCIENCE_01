@@ -1,0 +1,1 @@
+This project utilizes Python's pandas and matplotlib libraries to analyze the Titanic dataset and examine passenger demographics. A bar plot illustrates the gender distribution, and a histogram shows the age distribution. These visualizations offer clear insights into the demographic makeup of the Titanic's passengers.
